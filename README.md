@@ -4,7 +4,7 @@
 ## 文件夹practice 
 * 包含计算机基础知识练习题
 # 语文Language
-
-# 英语
-
+* [语文文学常识](https://github.com/APF668899/class/blob/master/Language/LiteratureCommonSense.md)
+* [词语拼音](https://github.com/APF668899/class/blob/master/Language/WordPinyin.md)
+* [词语含义](https://github.com/APF668899/class/blob/master/Language/wordMeaning.md)
 # 数学
