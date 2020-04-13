@@ -1,7 +1,7 @@
 # 计算机基础ComputerBasics
-## 文件夹Knowledge
+## 文件夹[Knowledge](https://github.com/APF668899/class/tree/master/ComputerBasics/Knowledge)
 * 包含计算机基础知识
-## 文件夹practice 
+## 文件夹[practice](https://github.com/APF668899/class/tree/master/ComputerBasics/practice)
 * 包含计算机基础知识练习题
 # 语文Language
 * [语文文学常识](https://github.com/APF668899/class/blob/master/Language/LiteratureCommonSense.md)
