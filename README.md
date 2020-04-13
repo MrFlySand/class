@@ -1,9 +1,9 @@
-# 计算机基础
+# 计算机基础ComputerBasics
 ## 文件夹Knowledge
 * 包含计算机基础知识
 ## 文件夹practice 
 * 包含计算机基础知识练习题
-# 语文
+# 语文Language
 
 # 英语
 
