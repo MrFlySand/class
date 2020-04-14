@@ -25,7 +25,7 @@ C.国标码和机内码 D.ASCII码和国标码
 A.1KB=1024MB B.1KB=1000B
 C.1MB=1024KB D.1MB=1024GB
 
-8、在Windows中，可以打开“开始”菜单的组合键是()
+8、在Windows中，可以打开“开始”菜单的组合键是(B)
 A.Alt+Esc   B.Ctrl+Esc   C.Tab+Esc   D.Shift+Esc
 
 9、打印机不能打印文档的原因不可能是因为(C)
@@ -71,8 +71,8 @@ B.在幻灯片中插入的对象如果有重叠，可以通过"叠放次序"调�
 C.在幻灯片备注页视图中无法绘制自选图形
 D.若选择"标题幻灯片"版式，则不可以向其中插入图形或图片
 
-20、PowerPoint2010模板的扩展名是()B
-A.potx B.pptx C.prtxD.pftx
+20、PowerPoint2010模板的扩展名是(B)
+A.potx  B.pptx  C.prtx  D.pftx
 
 21、在PowerPoint2010中，不可以向幻灯片中添加的对象是(B)
 A.图表 B.GIF动画 C.流媒体文件 D.文本
