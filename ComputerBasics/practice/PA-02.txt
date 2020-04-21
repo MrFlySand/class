@@ -1,4 +1,4 @@
-计算机基础知识AT02
+计算机基础知识练习题AT-02
 一．选择题：（每题2分，共60分）
 1.下列字符序列中，可用作C标识符的一组字符序列是(D)。
 A:S.b，sum，average，_above        B:class，day，lotus_，2day
