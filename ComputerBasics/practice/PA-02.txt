@@ -20,7 +20,7 @@ A:"ctype.h"   B:"string.h"    C:"stdio.h"   D:"math.h"
 6.在Internet上用于收发电子邮件的协议是(C)
 A.TCP/IP        B.IPX/SPX      C.POP3/SMTP         D.NetBEUI
 
-7．关于分类汇总，叙述正确的是() 
+7．关于分类汇总，叙述正确的是(A) [分类汇总只能按一个字段分类]
 A、分类汇总首先应按分类字段值对记录排序  B、分类汇总可以按多个字段分类 
 C、只能对数值型的字段分类     D、汇总方式只能求和 
 
