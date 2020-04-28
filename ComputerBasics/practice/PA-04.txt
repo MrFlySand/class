@@ -8,9 +8,9 @@ B、用“记事本”进行统计和处理
 C、用“画图”程序进行统计和处理
 D、直接用手工方式借助于计算器进行统计和处理
 
-3.下列选项中，全部为视频文件格式的是(C)
-A、wma、mpg[动态图像]、avi	  	B、dat、wav[音频文件]、wma[音频文件]
-C、avi、dat、wma		          	D、avi、mpg、wmv[视频文件]
+3.下列选项中，全部为视频文件格式的是(D)
+A、wma、mpg、avi	  	B、dat、wav[音频文件]、wma[音频文件]
+C、avi、dat、wma		  D、avi、mpg、wmv[视频文件]
 
 4. 计算机网络按覆盖范围由小到大的排列顺序是(B)
 A、WAN、LAN、MAN		B、LAN、MAN、WAN
