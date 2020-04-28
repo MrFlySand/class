@@ -1,3 +1,5 @@
+计算机基础知识练习题PA-03
+
 一、单项选择题（本大题共30小题，每小题5分，共150分）
 1、计算机的系统软件中，最贴近硬件的是(A)
 A.操作系统 B.各种语言及其处理程序
@@ -82,7 +84,7 @@ C.攻击并破坏web网站 D.收看不健康信息
 23、现在Internet上的电子书籍多数采用PDF格式存储和传递，这种格式的文件是用(C)软件来打开并阅读的。
 A.Microsoft Office B.Real Player C.Adobe Acrobat Reader D.ACDsee
 
-24、在表格中，如需运算的空格恰好位于表格最底部，需将该空格以上的内容累加，可通过该插入那句公式实现(D)
+24、在表格中，如需运算的空格恰好位于表格最底部，需将该空格以上的内容累加，可通过该插入那句公式实现(D)[above上,below下,left左,right右]
 A、=ADD(BELOW)  B、=ADD(ABOVE)   C、=SUM(BELOW)  D、=SUM(ABOVE)
 
 25、通过Internet发送或接收电子邮件(Email)的首要条件是应该有一个电子邮件(Email)地址，它的正确形式是(A)
