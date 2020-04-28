@@ -11,7 +11,7 @@ D、直接用手工方式借助于计算器进行统计和处理
 
 3.下列选项中，全部为视频文件格式的是(D)
 A、wma、mpg、avi	  	B、dat、wav[音频文件]、wma[音频文件]
-C、avi、dat、wma		  D、avi、mpg、wmv
+C、avi、dat、wma		D、avi、mpg、wmv
 
 4. 计算机网络按覆盖范围由小到大的排列顺序是(B)
 A、WAN、LAN、MAN		B、LAN、MAN、WAN
@@ -70,7 +70,7 @@ C、硬件系统和软件系统
 D、主机箱、显示器、键盘、鼠标、打印机
 
 17. 以下软件中，(D)不是操作系统软件。
-A、Windowsxp	   B、unix	C、linux   D、microsoft office
+A、Windowsxp    B、unix    C、linux   D、microsoft office
 
 18. 用一个字节最多能编出(D)不同的码。
 A、 8个 	B、 16个　　C、 128个 	D、 256个
@@ -88,7 +88,7 @@ A、8 　B、16　　C、32 	 D、64
 A、协议 　　B、主机　　C、地址　　 D、资源
 
 23. 在微机中，Bit的中文含义是(A)。
-A、二进制位		B、字[word]　　C、字节[bity]	  D、双字
+A、二进制位	B、字[word]　　  C、字节[bity]	  D、双字
 
 24. 计算机网络的应用越来越普遍，它的最大好处在于(C)。
 A、节省人力	  B、存储容量大
